@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @swayamjaiswal7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...data science
+- 🌱 I’m currently learning ...statistics and programming
+- 💞️ I’m looking to collaborate on ...data science projects
+- 
+- 📫 How to reach me ...mail me on swayamjaiswal77@gmail.com
 
 <!---
 swayamjaiswal7/swayamjaiswal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
